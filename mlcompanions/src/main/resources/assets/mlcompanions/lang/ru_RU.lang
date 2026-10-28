@@ -1,0 +1,5 @@
+itemGroup.mlcompanions=Мистик и Лаггер
+item.mlcompanions.summon_mystic.name=Призвать Мистика
+item.mlcompanions.summon_lagger.name=Призвать Лаггера
+entity.mlcompanions.Mystic.name=Мистик
+entity.mlcompanions.Lagger.name=Лаггер

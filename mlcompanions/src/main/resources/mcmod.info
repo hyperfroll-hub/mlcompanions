@@ -1,0 +1,10 @@
+[{
+  "modid": "mlcompanions",
+  "name": "Mystic & Lagger Companions",
+  "description": "Два компаньона, Мистик и Лаггер, ходят рядом с игроком, рубят лес, дерутся и болтают.",
+  "version": "${modVersion}",
+  "mcversion": "1.7.10",
+  "authorList": ["Kirill Smirnov"],
+  "credits": "Фанатский мод по мотивам летсплея «Пиратские приключения»",
+  "url": "", "updateUrl": "", "logoFile": "", "screenshots": [], "dependencies": []
+}]

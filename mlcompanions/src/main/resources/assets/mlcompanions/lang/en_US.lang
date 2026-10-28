@@ -1,0 +1,5 @@
+itemGroup.mlcompanions=Mystic & Lagger
+item.mlcompanions.summon_mystic.name=Summon Mystic
+item.mlcompanions.summon_lagger.name=Summon Lagger
+entity.mlcompanions.Mystic.name=Mystic
+entity.mlcompanions.Lagger.name=Lagger
